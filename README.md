@@ -19,3 +19,10 @@ For simplicity we just keep subset of dataset. Columns are as below:
 'saw_homepage' – A binary variable indicating if the customer saw the homepage of the website
 
 'ordered' – Our target variable. A binary variable indicating if the customer placed an order
+
+# Using Streamlit:
+The final output is a Streamlit Application that takes in particular customer inputs and predicts the probability that a customer with those inputs will make a purchase or not.
+
+To run the app
+
+**streamlit run app.py**
