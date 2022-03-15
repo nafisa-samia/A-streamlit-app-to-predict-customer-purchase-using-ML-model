@@ -25,4 +25,4 @@ The final output is a Streamlit Application that takes in particular customer in
 
 `To run the app use below command:`
 
-**streamlit run app.py**
+`**streamlit run app.py**`
