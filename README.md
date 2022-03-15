@@ -23,6 +23,6 @@ For simplicity we just keep subset of dataset. Columns are as below:
 # Using Streamlit:
 The final output is a Streamlit Application that takes in particular customer inputs and predicts the probability that a customer with those inputs will make a purchase or not.
 
-To run the app
+`To run the app use below command:`
 
 **streamlit run app.py**
