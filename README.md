@@ -1,7 +1,7 @@
 # A-streamlit-application-to-predict-customer's-purchase-using-ML-model
 
 # Aim:
-Aim is to build a Machine Learning model that predicts the customer's probability of purchase using historical data. Each website has a lot of visitors every day but not all of them make a purchase. Instead of spending money to target such visitors using digital marketing like social media platforms, it makes sense to optimize this activity by targeting real valuable prospects who are more likely to make a purchase.
+Aim is to build a Machine Learning model that predicts the customer's possibility of purchase using historical data. Each website has a lot of visitors every day but not all of them make a purchase. Instead of spending money to target such visitors using digital marketing like social media platforms, it makes sense to optimize this activity by targeting real valuable prospects who are more likely to make a purchase.
 
 # About dataset:
 For simplicity we just keep subset of dataset. Columns are as below:
