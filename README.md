@@ -20,9 +20,11 @@ For simplicity we just keep subset of dataset. Columns are as below:
 
 'ordered' – Our target variable. A binary variable indicating if the customer placed an order
 
-# Using Streamlit:
+**The dataset is highly imbalanced so the prediction will be biased. To solve this problem, we have used undersampling. Undersampling is a technique to balance uneven datasets by keeping all of the data in the minority class and decreasing the size of the majority class.**
+
+# Streamlit Webapp:
 The final output is a Streamlit Application that takes in particular customer inputs and predicts the probability that a customer with those inputs will make a purchase or not.
 
 `To run the app use below command:`
 
-`**streamlit run app.py**`
+**`streamlit run app.py`**
