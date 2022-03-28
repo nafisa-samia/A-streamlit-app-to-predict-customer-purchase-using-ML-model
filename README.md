@@ -4,7 +4,7 @@
 The aim of this project is to build a Machine Learning model that predicts the customer's possibility of purchase using historical data. Each website has a lot of visitors every day but not all of them make a purchase. Instead of spending money to target such visitors using digital marketing like social media platforms, it makes sense to optimize this activity by targeting real valuable prospects who are more likely to make a purchase.
 
 # About dataset:
-For simplicity we just keep subset of dataset. Columns are as below:
+For simplicity we use a shortest version of the dataset. The columns that we choose for this task are given below:
 
 'UserID' – Unique Identifier for each customer
 
@@ -20,7 +20,7 @@ For simplicity we just keep subset of dataset. Columns are as below:
 
 'ordered' – Our target variable. A binary variable indicating if the customer placed an order
 
-**The dataset is highly imbalanced so the prediction will be biased. To solve this problem, we have used undersampling. Undersampling is a technique to balance uneven datasets by keeping all of the data in the minority class and decreasing the size of the majority class.**
+**The dataset is highly imbalanced so the prediction will be biased. To solve this problem, we have used undersampling technique. Undersampling is a technique to balance uneven datasets by keeping all of the data in the minority class and decreasing the size of the majority class.**
 
 # Streamlit Webapp:
 The final output is a Streamlit Application that takes in particular customer inputs and predicts the probability that a customer with those inputs will make a purchase or not.
